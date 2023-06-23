@@ -1,0 +1,16 @@
+{
+    "name": "Kraken.AbilitySystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8f8098ba2bf3be742af0cd0d859a269c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
