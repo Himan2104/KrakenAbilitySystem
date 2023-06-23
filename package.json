@@ -1,0 +1,28 @@
+{
+  "name": "com.kraken.ability-system",
+  "version": "0.0.1",
+  "displayName": "Kraken Ability System",
+  "description": "Ability System for Unity similar to Unreal's Gameplay Ability System.",
+  "documentationUrl": "https://github.com/Himan2104/KrakenAbilitySystem/blob/main/README.md",
+  "changelogUrl": "https://github.com/Himan2104/KrakenAbilitySystem/releases",
+  "licensesUrl": "https://github.com/Himan2104/KrakenAbilitySystem/blob/main/LICENSE",
+  "author": {
+    "name": "Himanshu Parchand",
+    "email": "himan2104@outlook.com",
+    "url": "https://himan2104.github.io/"
+  },
+  "dependencies": {	
+  },
+  "repository": {
+    "url": "https://github.com/Himan2104/KrakenAbilitySystem.git",
+    "type": "git"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Examples",
+      "description": "Scenes and scripts showing the basic functionality.",
+      "path": "Samples~/"
+    }
+  ]
+}
+
